@@ -1,0 +1,11 @@
+head:The head command reads the first few lines of any text given to it as an input and writes them to standard output (which, by default, is the display screen).
+
+tail:tail outputs the last part, or "tail", of files. It can also monitor new information written to the file 
+
+paste:It is used to join files horizontally (parallel merging) by outputting lines consisting of lines from each file specified, separated by tab as delimiter, to the standard output.
+
+cut:for cutting sections from each line of files and writing
+
+uniq:uniq reports or filters out repeated lines in a file.
+
+wc:counts the total number of lines,words & bytes.
